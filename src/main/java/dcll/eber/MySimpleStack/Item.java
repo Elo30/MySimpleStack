@@ -6,7 +6,9 @@ package dcll.eber.MySimpleStack;
 public class Item{
     private Object value;
 
-
+    /*
+    *Un commentaire répondant à l'exigence #1
+    */
     Item(Object value) {
         setValue(value);
     }
